@@ -1,0 +1,8 @@
+= If Id Tags
+
+Adds 2 radius tags: r:if_id and r:unless_id.
+Sometimes it makes more sense to use these instead of something like r:unless_path matches="somecrazyregex"
+By gut-feeling, this would also make for a big performance boost on larger websites over the if_path approach.
+
+Created by Benny Degezelle. If I don't update this content with real details,
+please contact me at benny@gorilla-webdesign.be with annoying messages telling me to do it.
